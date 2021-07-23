@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+				<key>dateExpires</key>
+				<string>17/12/2021</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<key>dateExpires</key>
+						<string>17/12/2021</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Capacitor.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5PU4F25TM3</string>
+						<key>name</key>
+						<string>ARKADA TEKH, OOO</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<key>dateExpires</key>
+						<string>17/12/2021</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>CapacitorGeolocation.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5PU4F25TM3</string>
+						<key>name</key>
+						<string>ARKADA TEKH, OOO</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<key>dateExpires</key>
+						<string>17/12/2021</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>CapacitorSplashScreen.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5PU4F25TM3</string>
+						<key>name</key>
+						<string>ARKADA TEKH, OOO</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<key>dateExpires</key>
+						<string>17/12/2021</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>CapacitorStorage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5PU4F25TM3</string>
+						<key>name</key>
+						<string>ARKADA TEKH, OOO</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<key>dateExpires</key>
+						<string>17/12/2021</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Cordova.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5PU4F25TM3</string>
+						<key>name</key>
+						<string>ARKADA TEKH, OOO</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5PU4F25TM3.ru.carsherenta.app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5PU4F25TM3</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>5PU4F25TM3.ru.carsherenta.app</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>App.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>53542d17-7d69-42fb-a067-75ea58bc6e3e</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5PU4F25TM3</string>
+				<key>name</key>
+				<string>ARKADA TEKH, OOO</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
