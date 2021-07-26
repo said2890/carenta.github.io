@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+				<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 				<key>dateExpires</key>
-				<string>17/12/2021</string>
+				<string>01/03/2022</string>
 				<key>type</key>
-				<string>Apple Development</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 						<key>dateExpires</key>
-						<string>17/12/2021</string>
+						<string>01/03/2022</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Capacitor.framework</string>
@@ -52,11 +52,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 						<key>dateExpires</key>
-						<string>17/12/2021</string>
+						<string>01/03/2022</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorGeolocation.framework</string>
@@ -76,11 +76,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 						<key>dateExpires</key>
-						<string>17/12/2021</string>
+						<string>01/03/2022</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorSplashScreen.framework</string>
@@ -100,11 +100,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 						<key>dateExpires</key>
-						<string>17/12/2021</string>
+						<string>01/03/2022</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorStorage.framework</string>
@@ -124,11 +124,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>89FC7E12C9DC76806A01E95F5D3AA9767803D9FD</string>
+						<string>B3299365887961DC59878E72C9593EC53CFF2175</string>
 						<key>dateExpires</key>
-						<string>17/12/2021</string>
+						<string>01/03/2022</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Cordova.framework</string>
@@ -148,7 +148,7 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>5PU4F25TM3</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 				<key>keychain-access-groups</key>
 				<array>
 					<string>5PU4F25TM3.ru.carsherenta.app</string>
@@ -159,9 +159,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>53542d17-7d69-42fb-a067-75ea58bc6e3e</string>
+				<string>84be6e8d-0a20-49d1-97fe-ec26dba2138b</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: *</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: ru.carsherenta.app</string>
 			</dict>
 			<key>team</key>
 			<dict>
